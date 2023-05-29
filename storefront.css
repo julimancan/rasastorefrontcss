@@ -3,7 +3,7 @@
 }
 
 #main-content {
-  background-color: aqua;
+  background-color: aqua !important;
 
   color: red;
 }
