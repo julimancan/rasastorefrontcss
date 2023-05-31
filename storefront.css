@@ -7,3 +7,6 @@
 
   color: red;
 }
+:root {
+  --c7-primary-button-bg: red;
+}
